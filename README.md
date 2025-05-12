@@ -12,14 +12,9 @@ This is a simple, responsive, and accessible social links page built with HTML a
 - Hover and focus effects for accessibility
 - No JavaScript needed
 
-## 📸 Preview
-
-![Preview screenshot](![image](https://github.com/user-attachments/assets/8a0b8081-ae5a-49c5-a9db-9872b0781233)
-) 
-
 ## 🌍 Live Demo
 
-[Click here to view it live](https://yourusername.github.io/social-links)  
+[Click here to view it live](social-links-git-main-4rn1s-projects.vercel.app)  
 *(Update this URL after deployment)*
 
 ## 📁 Project Structure
